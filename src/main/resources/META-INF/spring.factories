@@ -1,0 +1,3 @@
+package `META-INF`
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.jason.chatbot.core.DingdingAutoConfiguration
